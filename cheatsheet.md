@@ -40,6 +40,6 @@ Unsorted...
 p/P  : paste below/above
 u/U  : upper/lowercase
 vb   : Visual Block
-
+^[a/x]: increment/decrement
 ^Y   : Pan Up 1 line
 ^E   : Pan Down 1 line
